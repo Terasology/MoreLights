@@ -1,7 +1,9 @@
 {
     "id" : "MoreLights",
     "version" : "0.1.0",
-    "displayName" : "Esa-Petri's lights",
     "author" : "Esa-Petri",
-    "description" : "This module adds lights, such as glowing flora, blocks, and artificial sources"
+    "displayName" : "Esa-Petri's lights",
+    "description" : "This module adds lights, such as glowing flora, blocks, and artificial sources",
+    "dependencies" : [],
+    "isServerSideOnly" : false
 }
